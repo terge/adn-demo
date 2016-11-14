@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ADNTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_admob">Admob</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="btn_load_banner">LoadBanner</string>
+    <string name="banner">Banner</string>
+    <string name="interstitial">Interstitial</string>
+    <string name="nativead">Native</string>
+    <string name="lable_app_id">AppId:</string>
+    <string name="lable_pub">Pub:</string>
+    <string name="title_activity_learn_tab">LearnTabActivity</string>
+    <string name="hint_banner_container">BannerContainer</string>
+    <string name="hint_native_container">NativeContainer</string>
+    <string name="title_activity_learn_drawer">LearnDrawerActivity</string>
+</resources>
